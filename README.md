@@ -24,8 +24,8 @@
  
 <div align="center">
   <a href="https://github.com/GabrielRossi-gr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="180em" width="550"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
@@ -49,8 +49,5 @@
   <img align="center" alt="rossi-"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  
   </div>
-  
- 
-  
-  
+
   
