@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/gabriel_s_rossi/?hl=pt-br">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  
-   ![Snake animation](https://github.com/GabrielRossi-gr/GabrielRossi-gr/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/GabrielRossi-gr/GabrielRossi-gr/blob/output/dist/github-snake.svg)
  </div>
 
   ##
