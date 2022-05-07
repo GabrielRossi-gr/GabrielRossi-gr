@@ -32,6 +32,9 @@
   
 
 <div>   
+    <h2> APRENDENDO:  </h2>
+ <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
   <h3> PRETENDO APRENDER: </h3>
   <img align="center" alt="flutter-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="react-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
