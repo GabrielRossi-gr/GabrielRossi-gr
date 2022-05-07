@@ -13,7 +13,7 @@
    
    
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
-  <height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
    <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
