@@ -17,10 +17,12 @@
  
    <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-     
+  
+    /** 
   <a href="https://www.instagram.com/gabriel_s_rossi/?hl=pt-br">
   <img height="60" width="70" src=""/>
- 
+ **/
+   
  </div>
  <div>
   <h3> APRENDENDO:  </h3>
