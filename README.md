@@ -21,9 +21,9 @@
   </h1>
  </div>
  <div>
-  <h3> APRENDENDO:  </h3>
+  <h3> Learning:  </h3>
  <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <h3> PRETENDO APRENDER: </h3>
+  <h3> I intend to learn: </h3>
   <img align="center" alt="flutter-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="react-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="c#-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
