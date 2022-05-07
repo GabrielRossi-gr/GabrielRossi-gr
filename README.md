@@ -28,6 +28,8 @@
   <img align="center"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="rossi-"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="rossi-"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  
+   ![Snake animation](https://github.com/GabrielRossi-gr/GabrielRossi-gr/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 
