@@ -19,13 +19,13 @@
   <a href="https://www.instagram.com/gabriel_s_rossi/?hl=pt-br">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  
-   ![Snake animation](https://github.com/GabrielRossi-gr/GabrielRossi-gr/blob/output/dist/github-snake.svg)
+  
  </div>
 
   ##
 
  <div style="display: inline_block"><br>
-   <h1> APRENDENDO:  </h1>
+   <h2> APRENDENDO:  </h2>
   <img align="center"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="rossi-"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="rossi-"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
