@@ -10,38 +10,32 @@
 </div>
   
   <div align="center">
+   
+   
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
    <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
      
   <a href="https://www.instagram.com/gabriel_s_rossi/?hl=pt-br">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src=""/>
  
-  
- </div>
-
-  ##
-
- <div style="display: inline_block"><br>
-   <h2> APRENDENDO:  </h2>
+   
+   
+      <h3> APRENDENDO:  </h3>
  <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
-</div>
-  
-
-<div>   
-    <h3> APRENDENDO:  </h3>
- <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  
-  <h3> PRETENDO APRENDER: </h3>
+      <h3> PRETENDO APRENDER: </h3>
   <img align="center" alt="flutter-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="react-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="c#-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="c++-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="python-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  
-  </div>
+  
+ </div>
+
+
 
   
