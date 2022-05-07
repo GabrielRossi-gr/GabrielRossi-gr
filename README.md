@@ -26,11 +26,8 @@
 
  <div style="display: inline_block"><br>
    <h2> APRENDENDO:  </h2>
-  <img align="center"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="rossi-"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="rossi-"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img align="center" alt="c-"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
-   
 </div>
   
 
