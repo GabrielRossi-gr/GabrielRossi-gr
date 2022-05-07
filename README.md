@@ -35,7 +35,7 @@
   
 
 <div>   
-  <h2> PRETENDO APRENDER: </h2>
+  <h3> PRETENDO APRENDER: </h3>
   <img align="center" alt="flutter-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="react-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="c#-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
