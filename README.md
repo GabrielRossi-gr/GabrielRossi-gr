@@ -26,7 +26,7 @@
 
  <div style="display: inline_block"><br>
    <h2> APRENDENDO:  </h2>
- <img align="center" alt="c-"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
 </div>
   
