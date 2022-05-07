@@ -9,17 +9,17 @@
  <img height="180" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
   
-  <div align="center" vheight="60" width="70">
+  <div align="center">
    
    
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
    <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
      
   <a href="https://www.instagram.com/gabriel_s_rossi/?hl=pt-br">
-  <img src=""/>
+  <img height="60" width="70" src=""/>
  
    
    
