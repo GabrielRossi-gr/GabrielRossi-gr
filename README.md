@@ -21,7 +21,8 @@
   <a href="https://www.instagram.com/gabriel_s_rossi/?hl=pt-br">
   <img height="60" width="70" src=""/>
  
-   
+ </div>
+ <div>
   <h3> APRENDENDO:  </h3>
  <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <h3> PRETENDO APRENDER: </h3>
