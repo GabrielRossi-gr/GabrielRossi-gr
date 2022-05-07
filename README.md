@@ -9,7 +9,7 @@
  <img height="180" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
   
-  <div align="center">
+  <div align="center" vheight="60" width="70">
    
    
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
