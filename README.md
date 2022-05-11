@@ -12,10 +12,10 @@
  
   <div align="center"> 
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
    <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   
   <h1>
   </h1>
