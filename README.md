@@ -1,4 +1,6 @@
 <h1>
+   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  
   HI, i'm Gabriel Rossi
 </h1>
  <!-- -->
