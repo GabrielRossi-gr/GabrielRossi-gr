@@ -1,7 +1,7 @@
 <h1>
    <img height="70" width="900" src="https://cdn.discordapp.com/attachments/819226289789075497/977696123865161798/github2222.png" />
   
-  HI, i'm Gabriel Rossi    •systems analysis and development student
+  HI, i'm Gabriel Rossi->Systems Analysis and Development Student
 </h1>
  <!-- -->
  <!-- align="center" -->
