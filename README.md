@@ -2,10 +2,8 @@
    <img height="75" width="840" src="https://cdn.discordapp.com/attachments/819226289789075497/977696123865161798/github2222.png" />
   
   HI, i'm Gabriel Rossi   •Systems Analysis and Development Student
-</h1>
- <!-- -->
- <!-- align="center" -->
-  <div> 
+   
+     <div> 
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
@@ -16,6 +14,11 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 
 <div align="center" >
+   
+</h1>
+ <!-- -->
+ <!-- align="center" -->
+
 <a href="https://github.com/GabrielRossi-gr">
   <!--          normal-> height="180em"                  -->
 <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
