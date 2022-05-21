@@ -40,8 +40,9 @@
   <img align="center" alt="crome-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   <img align="center" alt="android studio-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="git-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="js-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
+  <img align="center" alt="vs code-"   height="60" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="visual studio-"   height="60" width="70"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  />
+ 
   
  </div>
 
