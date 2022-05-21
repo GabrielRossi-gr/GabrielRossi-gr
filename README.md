@@ -1,5 +1,5 @@
 <h1>
-   <img height="100" width="100" src="https://cdn.discordapp.com/attachments/819226289789075497/977691097524498472/github1111.png" />
+   <img height="100" width="200" src="https://cdn.discordapp.com/attachments/819226289789075497/977691097524498472/github1111.png" />
   
   HI, i'm Gabriel Rossi
 </h1>
