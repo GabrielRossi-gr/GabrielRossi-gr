@@ -11,6 +11,9 @@
  
    <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      
+       <a href="https://twitter.com/gabriel_r123456">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 
 <div align="center" >
 <a href="https://github.com/GabrielRossi-gr">
