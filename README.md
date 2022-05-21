@@ -1,5 +1,5 @@
 <h1>
-   <img height="60" width="890" src="https://cdn.discordapp.com/attachments/819226289789075497/977696123865161798/github2222.png" />
+   <img height="50" width="870" src="https://cdn.discordapp.com/attachments/819226289789075497/977696123865161798/github2222.png" />
   
   HI, i'm Gabriel Rossi   •Systems Analysis and Development Student
 </h1>
