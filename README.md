@@ -16,7 +16,7 @@
   
 <h3>
   <div>
-    <!-Certificate: ... -->
+    Certificate: ... -->
   </div align="center">
 </h3>
 
