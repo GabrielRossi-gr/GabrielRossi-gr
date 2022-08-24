@@ -14,9 +14,9 @@
 
 <div align="center" >
   
-<h3>
+<h3 align="center" >
   <div>
-    Cerificate:
+    Cerificate: ...
   </div>
 </h3>
 
