@@ -15,7 +15,7 @@
 <div align="center" >
   
 <h3>
-  <div style= 'text-align: left'>
+  <div align="left">
     <p> Certificate: ... --> </p>
   </div>
 </h3>
