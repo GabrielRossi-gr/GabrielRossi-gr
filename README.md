@@ -12,19 +12,16 @@
   <a href="https://twitter.com/gabriel_r123456">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 
-<div align="center" >
+<div align="center" >     <!-- MAIN DIV........................................................ -->
   
 <h3>
-  <div align="left">
-    <p> Certificate: ... --> </p>
+  <div align="left">          <!-- CERTIFICATE DIV ..........................................................-->
+    <p> <!-- Certificate: ... --> </p>
   </div>
 </h3>
 
    
-</h1>
- <!-- -->
- <!-- align="center" -->
-
+</h1>           <!-- INFO PAGE .................................................... -->
 <a href="https://github.com/GabrielRossi-gr">
   <!--          normal-> height="180em"                  -->
 <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -35,7 +32,7 @@
  <h1/>
  
  </div>
- <div>
+ <div>         <!-- LEARNIG PAGE........................................................... -->
   <h3> Learning:  </h3>
  <img align="center" alt="c-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="python-"  height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
@@ -43,7 +40,7 @@
 
            
           
-    
+     <!-- I intend to learn PAGE .................................................... -->
     
   <h3> I intend to learn: </h3>
   <img align="center" alt="flutter-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
