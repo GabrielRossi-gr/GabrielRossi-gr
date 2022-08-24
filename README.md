@@ -14,10 +14,10 @@
 
 <div align="center" >
   
-<h3 align="center" >
+<h3>
   <div>
-    <!--Cerificate: ... -->
-  </div>
+    <!-Certificate: ... -->
+  </div align="center">
 </h3>
 
    
