@@ -13,10 +13,10 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 
 <div align="center" >
-<h1>
+<h3>
 Cerificate:
 
-</h1>
+</h3>
 
    
 </h1>
