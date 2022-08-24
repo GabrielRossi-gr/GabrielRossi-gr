@@ -43,7 +43,7 @@
     
    
     
-  <h3> I want to learn: </h3>
+  <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
   <img align="center" alt="flutter-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="react-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="c#-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -55,7 +55,7 @@
   <img align="center" alt="js-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="css-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  
-  <h3> Tools </h3>
+  <h3> Tools </h3> <!-- tools area................................................................ -->
   <img align="center" alt="crome-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   <img align="center" alt="android studio-"   height="60" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="vs code-"   height="60" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
