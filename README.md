@@ -31,11 +31,23 @@
 
    
 </h1>           <!-- INFO PAGE .................................................... -->
+       <h3>Contact: 
+  
+  <a href="https://www.facebook.com/gabriel.desouzarossi.9">
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+ 
+  <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=SxfkdqMFJBqfqFNWLnVfKdqgTsHwTsjRPCrqXnjSVFpxmQRZGNJGxjFHrfQhGdRFtzDzDCsFHHsZZTWxqPmFLnVfKQRWDztmNKSFGkLPjRbTBFDHhnq">
+  <img height="32" width="40" src="https://cdn.discordapp.com/attachments/819226289789075497/1012727062190108753/gmail-logo-2-1.png"/>
+ <!-- -->
 <a href="https://github.com/GabrielRossi-gr">
   <!--          normal-> height="180em"                  -->
 <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+    </h3>
+  </div>
   
  <h1>
  <h1/>
