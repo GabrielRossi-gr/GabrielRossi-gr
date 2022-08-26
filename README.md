@@ -48,7 +48,7 @@
   <img align="center" alt="react-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="c#-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
    
-    <img align="center" alt="dart-"   height="60" width="70" src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" alt="dart-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 
   <img align="center" alt="android-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
    <img align="center" alt="swift-"   height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
