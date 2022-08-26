@@ -1,7 +1,8 @@
 <h1>
-  
+  <p>
   HI, i'm Gabriel Rossi   •Systems Analysis and Development Student
-   
+  </p>
+  
   <div> 
   <p> Contact: 
   
