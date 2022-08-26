@@ -3,6 +3,8 @@
   HI, i'm Gabriel Rossi   •Systems Analysis and Development Student
    
   <div> 
+  <p> Contact: </p>
+  
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
