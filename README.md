@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
       
-  <a href="https://twitter.com/gabriel_r123456">
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-    
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=SxfkdqMFJBqfqFNWLnVfKdqgTsHwTsjRPCrqXnjSVFpxmQRZGNJGxjFHrfQhGdRFtzDzDCsFHHsZZTWxqPmFLnVfKQRWDztmNKSFGkLPjRbTBFDHhnq">
   <img height="32" width="40" src="https://cdn.discordapp.com/attachments/819226289789075497/1012727062190108753/gmail-logo-2-1.png"/>
     
