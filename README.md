@@ -81,33 +81,32 @@
        <img align="center" alt="visual studio-"   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  />
         <img align="center" alt="canva "   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
    
- <h3>
- <p>         R            </p>      
- <p>        R R           </p>
- <p>       R   R          </p>
- <p>      R     R         </p>
- <p>     R   O   R        </p>
- <p>    R  O   O  R       </p>
- <p>    R  O   O  R       </p>
- <p>    R    O    R       </p>
- <p>    R         R       </p>
- <p>    R         R       </p>
- <p>    R    G    R       </p>
- <p>   RR    S    RR      </p>
- <p>  RRR    R    RRR     </p>
- <p> RRRR         RRRR    </p>
- <p>RRRRR_________RRRRRR  </p>
- <p>      RR   RR         </p>
- <p>      RR   RR         </p>
- <p>      RR   RR         </p>
- <p>      |     |         </p>
- <p>     |     |          </p>
- <p>      |     |         </p>
- <p>     |     |          </p>
- <p>      |     |         </p>
+ 
+             R                 
+            R R           
+           R   R          
+          R     R         
+         R   O   R        
+        R  O   O  R       
+        R  O   O  R       
+        R    O    R       
+        R         R       
+        R         R       
+        R    G    R       
+       RR    S    RR      
+      RRR    R    RRR     
+     RRRR         RRRR    
+    RRRRR_________RRRRRR  
+          RR   RR         
+          RR   RR         
+          RR   RR         
+          |     |         
+         |     |          
+          |     |         
+         |     |          
+          |     |         
 
    
-   </h3>
    
    
                          
