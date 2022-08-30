@@ -1,7 +1,7 @@
 <h1>
   <p>••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>
-  <p>----------------------<---[github]--->---------------------</p>
-  <p>•HI, i'm Gabriel Rossi</p>  
+  <p>----------------------<---[G´Rossi]--->---------------------</p>
+  <p></p>  
   <p>•Systems Analysis and pevelopment Student</p>
   
   
@@ -82,6 +82,10 @@
         <img align="center" alt="canva "   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
    
    
+   
+   
+                         
+                         
    
  </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
 
