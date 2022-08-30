@@ -1,6 +1,6 @@
 <h1>
   <p>••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>
-  <p>----------------------<---[GitHub]--->----------------------</p>
+  <p>----------------------<---[github]--->----------------------</p>
   <p>•HI, i'm Gabriel Rossi</p>  
   <p>•Systems Analysis and pevelopment Student</p>
   
@@ -80,6 +80,9 @@
       <img align="center" alt="git-"   height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
        <img align="center" alt="visual studio-"   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  />
         <img align="center" alt="canva "   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
+   
+   
+   
  </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
 
 
