@@ -87,8 +87,8 @@
             R R                #include <stlib.h>
            R   R               
           R     R              int main() {
-         R   O   R              char nome[]; 
-        R  O   O  R             int idade;
+         R   O   R               char nome[]; 
+        R  O   O  R              int idade;
         R  O   O  R       
         R    O    R       
         R         R       
