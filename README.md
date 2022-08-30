@@ -1,7 +1,7 @@
 <h1>
   <p>••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>
-  <p>•HI, i'm Gabriel Rossi </p>  
-  <p>•Systems Analysis and D/pevelopment Student </p>
+  <p>•HI, i'm Gabriel Rossi                                     •</p>  
+  <p>•Systems Analysis and D/pevelopment Student                •</p>
   
   
   <div> 
