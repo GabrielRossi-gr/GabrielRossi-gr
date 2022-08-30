@@ -30,7 +30,7 @@
 
    
 </h1>           <!-- INFO PAGE .................................................... -->
-  <!-- linguagens page ######################################################################### -->  
+  <!-- linguagens page######################################################################### -->  
  <p>
   <!--
    <img align="center" alt="c-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -48,10 +48,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h1>
-  
-  
-  
- 
  <h1/>
  
  </div>
@@ -59,12 +55,12 @@
   <h3> Learning:  </h3>
    <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="python-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
-     <img align="center" alt="googleCloud-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">   
+     <img align="center" alt="googleCloud-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+     <img align="center" alt="flutter-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
    
    
     
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
-   <img align="center" alt="flutter-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="dart-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
      <img align="center" alt="react-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
       <img align="center" alt="c#-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
