@@ -83,12 +83,12 @@
    <h1>
    </h1>
  
-             R                 
-            R R           
-           R   R          
-          R     R         
-         R   O   R        
-        R  O   O  R       
+             R                 #include <stdin.h>
+            R R                #include <stlib.h>
+           R   R               
+          R     R              int main() {
+         R   O   R             
+        R  O   O  R            char nome[]; 
         R  O   O  R       
         R    O    R       
         R         R       
@@ -103,7 +103,7 @@
           RR   RR         
           |     |         
          |     |          
-          |     |         
+          |     |              } 
          |     |          
           |     |         
 
