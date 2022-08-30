@@ -1,5 +1,5 @@
 <h1>
-  
+  •••••••••••••••••••••••••••••••••••••••••
   •HI, i'm Gabriel Rossi   
   •Systems Analysis and Development Student
   
