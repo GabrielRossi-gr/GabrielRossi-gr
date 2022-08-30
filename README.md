@@ -1,11 +1,11 @@
 <h1>
   
-  HI, i'm Gabriel Rossi   
+  •HI, i'm Gabriel Rossi   
   •Systems Analysis and Development Student
   
   
   <div> 
-   <h3>Contact: 
+   <h3>•Contact: 
   
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
