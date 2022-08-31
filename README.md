@@ -83,27 +83,27 @@
    <h1>
    </h1>
  
-             R                 #include <stdin.h>
-            R R                #include <stlib.h>
+             R                 #include <student>
+            R R                #include <ADS>
            R   R               
-          R     R              int main() {
-         R   O   R               char nome[]; 
-        R  O   O  R              int idade;
-        R  O   O  R       
+          R     R              string username;
+         R   O   R             string name;   
+        R  O   O  R            string social;  
+        R  O   O  R            string code;
         R    O    R       
-        R         R       
-        R         R       
-        R    G    R       
-       RR    S    RR      
-      RRR    R    RRR     
-     RRRR         RRRR    
-    RRRRR_________RRRRRR  
+        R         R            int developer() {
+        R         R                name ='gabriel rossi'
+        R    G    R                username ='Rossi';
+       RR    S    RR               social =[
+      RRR    R    RRR                  github ='https://github.com/GabrielRossi-gr'
+     RRRR         RRRR                 instagram ='https://www.instagram.com/gabriel_s_rossi/'
+    RRRRR_________RRRRRR               gmail ='gabrieldesouzarossi123456@gmail.com'
           RR   RR         
-          RR   RR         
-          RR   RR         
+          RR   RR                 ]
+          RR   RR              }
           |     |         
          |     |          
-          |     |              } 
+          |     |              
          |     |          
           |     |         
 
