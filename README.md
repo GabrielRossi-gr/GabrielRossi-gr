@@ -90,7 +90,8 @@
          R   O   R         string name;   
         R  O   O  R        string social;  
         R  O   O  R        string code;
-        R    O    R       
+        R    O    R        string learning;
+        R         R
         R         R        int developer() {
         R         R            name ='gabriel rossi'
         R    G    R            username ='Rossi';
@@ -98,21 +99,13 @@
       RRR    R    RRR              github ='https://github.com/GabrielRossi-gr'
      RRRR         RRRR             instagram ='https://www.instagram.com/gabriel_s_rossi/'
     RRRRR_________RRRRRR           gmail ='gabrieldesouzarossi123456@gmail.com'
-          RR   RR               ]
-          RR   RR             }
-          RR   RR              
+          RR   RR              ]   
+          RR   RR              learning ={'c','dart','python','googleCloud'};
+          RR   RR           }       
           |     |         
          |     |          
           |     |              
-         |     |          
-          |     |         
-
-   
-   
-   
-                         
-                         
-   
+         |     |   
  </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
 
 
