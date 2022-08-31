@@ -83,24 +83,23 @@
    <h1>
    </h1>
  
-             R             #include <student>
-            R R            #include <ADS>
+             R             #include <ROSSIZICE.net>
+            R R            #include <GABRIELZICE.h>
            R   R               
           R     R          string username;
          R   O   R         string name;   
-        R  O   O  R        string social;  
+        R  O   O  R        string learning;  
         R  O   O  R        string code;
-        R    O    R        string learning;
-        R         R
+        R    O    R       
         R         R        int developer() {
-        R         R            name ='gabriel rossi'
+        R         R            name ='Gabriel Rossi';
         R    G    R            username ='Rossi';
-       RR    S    RR           social =[
-      RRR    R    RRR              github ='https://github.com/GabrielRossi-gr'
-     RRRR         RRRR             instagram ='https://www.instagram.com/gabriel_s_rossi/'
-    RRRRR_________RRRRRR           gmail ='gabrieldesouzarossi123456@gmail.com'
-          RR   RR              ]   
-          RR   RR              learning ={'c','dart','python','googleCloud'};
+       RR    S    RR           learning =[
+      RRR    R    RRR              [1]='C';    
+     RRRR         RRRR             [2]='python';
+    RRRRR_________RRRRRR           [4]='dart';
+          RR   RR                  [5]='googleCloud';
+          RR   RR              ]
           RR   RR           }       
           |     |         
          |     |          
