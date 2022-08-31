@@ -82,30 +82,6 @@
         <img align="center" alt="canva "   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
    <h1>
    </h1>
- <!--
-             R             #include <ROSSIZICE.net>
-            R R            #include <GABRIELZICE.h>
-           R   R               
-          R     R          string username;
-         R   O   R         string name;   
-        R  O   O  R        string learning;  
-        R  O   O  R        string code;
-        R    O    R       
-        R         R        int developer() {
-        R         R            name ='Gabriel Rossi';
-        R    G    R            username ='Rossi';
-       RR    S    RR           learning =[
-      RRR    R    RRR              [1]='C';    
-     RRRR         RRRR             [2]='python';
-    RRRRR_________RRRRRR           [4]='dart';
-          RR   RR                  [5]='googleCloud';
-          RR   RR              ]
-          RR   RR           }       
-          |     |         
-         |     |          
-          |     |              
-         |     | 
- -->
          R 
         R R
        R   R
