@@ -83,24 +83,24 @@
    <h1>
    </h1>
    
-           R 
-          R R
-         R   R
-        R  O  R
-       R O   O R
-       R O   O R
-       R   O   R
-       R       R
-       R       R 
-      RR   G   RR
-     RRR   S   RRR
-    RRRR   R   RRRR
-   RRRRR_______RRRRRR
-        RR   RR    
-        RR   RR
-        |     |
-         |     |
-        |     |
+               R 
+              R R
+             R   R
+            R  O  R
+           R O   O R
+           R O   O R
+           R   O   R
+           R       R
+           R       R 
+          RR   G   RR
+         RRR   S   RRR
+        RRRR   R   RRRR
+       RRRRR_______RRRRRR
+            RR   RR    
+            RR   RR
+            |     |
+             |     |
+            |     |
    
  </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
 
