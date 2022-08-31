@@ -82,7 +82,7 @@
         <img align="center" alt="canva "   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
    <h1>
    </h1>
- 
+ <!--
              R             #include <ROSSIZICE.net>
             R R            #include <GABRIELZICE.h>
            R   R               
@@ -104,7 +104,26 @@
           |     |         
          |     |          
           |     |              
-         |     |   
+         |     | 
+ -->
+         R 
+        R R
+       R   R
+      R  O  R
+     R O   O R
+     R O   O R
+     R   O   R
+     R       R
+     R       R 
+    RR   G   RR
+   RRR   S   RRR
+  RRRR   R   RRRR
+ RRRRR_______RRRRRR
+      RR   RR    
+      RR   RR
+      |     |
+       |     |
+      |     |
  </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
 
 
