@@ -71,7 +71,7 @@
         <img align="center" alt="android-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
          <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
           
-            <!-- <img align="center" alt="vb-" height="70" width="70" src="https://cdn.discordapp.com/attachments/819226289789075497/978989010594717716/icons8-visual-basico-100.png"> -->
+   <!-- <img align="center" alt="vb-" height="70" width="70" src="https://cdn.discordapp.com/attachments/819226289789075497/978989010594717716/icons8-visual-basico-100.png"> -->
 
    <h1>
    </h1>
