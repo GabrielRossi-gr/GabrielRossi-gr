@@ -102,7 +102,7 @@
       <img align="center" alt="git-"   height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
        <img align="center" alt="visual studio-"   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  />
         <img align="center" alt="canva "   height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  />
- </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
+ </div> <!-- CLOUSE MAIN DIV .......................................................................................--> 
 
 
 
