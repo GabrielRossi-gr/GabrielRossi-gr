@@ -2,7 +2,7 @@
   <!--<p>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>--> 
   <!--<p>--------------------------[g´Rossi]-------------------------</p>-->
   <!--<p>Hi, i'm Gabriel 'Rossi' </p>-->
-  <p>Systems Analysis and pevelopment Student</p>
+  <p>Systems Analysis and Development Student</p>
   
   
   <div> 
