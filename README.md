@@ -69,7 +69,6 @@
           <img align="center" alt="android-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
            <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
             <img align="center" alt="dart-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-          
               <img align="center" alt="html-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
                 <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                   <img align="center" alt="css-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
