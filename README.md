@@ -43,12 +43,13 @@
 <!--#############################################################################################-->
     
     
-<!--info github-->
+<!--info github
 <a href="https://github.com/GabrielRossi-gr">
         <!--          normal-> height="180em"      150            -->
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dark"/>
 
+-->
 
 
 
@@ -57,14 +58,6 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielRossi-gr&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi-gr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
-
-
-
-
-
-
-
-
 
 
 
