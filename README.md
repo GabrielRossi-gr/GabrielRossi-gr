@@ -1,13 +1,10 @@
 <h1>
-  <!--<p>•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••</p>--> 
-  <!--<p>--------------------------[g´Rossi]-------------------------</p>-->
-  <!--<p>Hi, i'm Gabriel 'Rossi' </p>-->
+  
   <p>Systems Analysis and Development Student</p>
   
   
   <div> 
    <p>Contact: 
-  
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
@@ -23,11 +20,11 @@
 
 <div align="center" ><!-- MAIN DIV........................................................ -->
   
-  <h3>
-    <div align="left"><!-- CERTIFICATE DIV ..........................................................-->
-    <p> <!-- Certificate: ... --> </p>
-  </h3>
-</div>
+    <h3>
+     <div align="left"><!-- CERTIFICATE DIV ..........................................................-->
+      <p> <!-- Certificate: ... --> </p>
+      </h3>
+     </div>
 
 
    
@@ -52,16 +49,11 @@ info github
 --> 
 
 
-
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielRossi-gr&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielRossi-gr&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielRossi-gr&theme=nord_dark) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielRossi-gr&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi-gr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
-
-
-
 
 
 </div>
