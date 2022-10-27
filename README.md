@@ -98,7 +98,7 @@ info github
           RR   G   RR
          RRR   S   RRR
         RRRR   R   RRRR
-       RRRRR_______RRRRRR
+       RRRRR_______RRRRR
             RR   RR    
             RR   RR
             |     |
