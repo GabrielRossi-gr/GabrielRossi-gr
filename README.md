@@ -20,16 +20,16 @@
 <div align="center" ><!-- MAIN DIV........................................................ -->
   
 
-  <!--<div align="left"> CERTIFICATE DIV ..........................................................
-    <h3>
-     <p>  Certificate: ...  </p>
-    </h3>
-  </div> -->
+  <div align="left"> CERTIFICATE DIV ..........................................................
+    <h4>
+      <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+    </h4>
+  </div>
 
 
    
   <!-- my languages.................................................... -->
-  <!-- linguagens page######################################################################### -->  
+   
  
   <!--
    <img align="center" alt="c-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -37,7 +37,7 @@
    <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">    
   -->
  
-<!--#############################################################################################-->
+
     
     
 <!--
