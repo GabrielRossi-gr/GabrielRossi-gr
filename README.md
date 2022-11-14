@@ -23,6 +23,8 @@
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
     <h3>
       <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    </h3>
+    <h3>
         <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
     </h3>
   </div>
