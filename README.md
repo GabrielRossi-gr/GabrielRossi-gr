@@ -57,16 +57,15 @@ info github
    
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
      <img align="center" alt="flutter-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">   
-      <img align="center" alt="react-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
-        <img align="center" alt="c#-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-         <img align="center" alt="python-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
-          <img align="center" alt="android-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-           <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
+      <img align="center" alt="react-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">        
+        <img align="center" alt="android-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+          <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
             <img align="center" alt="dart-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-              <img align="center" alt="html-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<!--
+   <img align="center" alt="html-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
                 <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                   <img align="center" alt="css-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-          
+-->          
    <!-- <img align="center" alt="vb-" height="70" width="70" src="https://cdn.discordapp.com/attachments/819226289789075497/978989010594717716/icons8-visual-basico-100.png"> -->
 
    <h1>
