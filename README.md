@@ -22,23 +22,11 @@
 
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
     <h3>
+      <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
       <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
     </h3>
   </div>
-
-
-   
-  <!-- my languages.................................................... -->
-   
  
-  <!--
-   <img align="center" alt="c-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="python-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
-   <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">    
-  -->
- 
-
-    
     
 <!--
 info github 
@@ -67,9 +55,8 @@ info github
  <div>         <!-- LEARNIG PAGE........................................................... -->
   <h3> Learning:  </h3>
      <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-      <img align="center" alt="googleCloud-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-       <img align="center" alt="java-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-        
+      <img align="center" alt="java-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+       <img align="center" alt="spring-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">   
    
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
      <img align="center" alt="flutter-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">   
