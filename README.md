@@ -30,13 +30,13 @@
    
   <!-- my languages.................................................... -->
   <!-- linguagens page######################################################################### -->  
- <p>
+ 
   <!--
    <img align="center" alt="c-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="python-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
    <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">    
   -->
- </p>  
+ 
 <!--#############################################################################################-->
     
     
