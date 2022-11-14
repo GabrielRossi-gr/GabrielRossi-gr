@@ -1,13 +1,12 @@
 <h1>
   
-  <p>Systems Analysis and Development Student</p>
-
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
       <img align="center" alt="c-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img align="center" alt="googleCloud-"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   </div>
-   
   
+  
+  <p>Systems Analysis and Development Student</p>
   
    <p>Contact: 
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
