@@ -1,10 +1,10 @@
 <h1>
   
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
-   intermediate skills: <img align="center" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+   Intermediate Skills: <img align="center" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     
   <br>
-  basic skills: <img align="center" alt="java-"    height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  Basic Skills: <img align="center" alt="java-"    height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
                   <img align="center" alt="googleCloud-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
     
   <br>
