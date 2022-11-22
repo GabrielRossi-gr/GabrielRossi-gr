@@ -7,7 +7,9 @@
   <br>
   Basic Skills: <img align="center" alt="java-"    height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
                   <img align="center" alt="googleCloud-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-    
+  ..
+  <br>
+  ..
   <br>
   </div>
   
