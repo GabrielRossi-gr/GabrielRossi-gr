@@ -1,10 +1,12 @@
 <h1>
   
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
-      <img align="center" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <img align="center" alt="googleCloud-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+   intermediate skills: <img align="center" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    
+  <br>
+  basic skills: <img align="center" alt="java-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+                  <img align="center" alt="googleCloud-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   </div>
-  
   
   <p>Systems Analysis and Development Student</p>
   
@@ -53,7 +55,7 @@ info github
   <h3> Learning:  </h3>
      <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
       <img align="center" alt="java-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-       <img align="center" alt="springboot-"  height="55" width="55" src="https://cdn.discordapp.com/attachments/819226289789075497/1042758902363734027/spring-boot-project-logo.png">   
+        
    
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
      <img align="center" alt="flutter-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">   
