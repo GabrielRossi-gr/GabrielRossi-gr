@@ -2,15 +2,16 @@
   <p>Systems Analysis and Development Student</p>
   
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
+  <!-- 
   .
   <br>
   Intermediate Skills: 
- 
+  -->
   <br>
   Basic Skills: <img align="center" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
                  <img align="center" alt="java-"    height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
                   <img align="center" alt="googleCloud-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  
+  <!-- -->
   <br>
   .
   <br>
