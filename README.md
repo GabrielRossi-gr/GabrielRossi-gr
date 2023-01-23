@@ -1,6 +1,5 @@
 <h1>
   <p>Systems Analysis and Development Student</p>
-  
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
   <!-- 
   .
