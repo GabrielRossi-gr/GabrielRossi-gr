@@ -24,8 +24,7 @@
   
   
   
-   <p  style="position: relative;
-    left: 400px;"  ><!-- contact -->
+   <p  style="position: relative; left: 400px;"  >        <!-- contact -->
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
  
