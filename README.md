@@ -71,11 +71,12 @@ info github
   <h3> Learning:  </h3>
      <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
    
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
       <img align="center" alt="react-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">        
         <img align="center" alt="android-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-          <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
+          <img align="center" alt="java-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 <!--
    <img align="center" alt="html-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
                 <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
