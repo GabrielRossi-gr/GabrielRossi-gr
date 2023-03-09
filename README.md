@@ -70,7 +70,6 @@ info github
  <div>         <!-- LEARNIG PAGE........................................................... -->
   <h3> Learning:  </h3>
      <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
    
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
@@ -79,6 +78,7 @@ info github
           <img align="center" alt="java-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 <!--
    <img align="center" alt="html-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                 <img align="center" alt="js-"  height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                   <img align="center" alt="css-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 -->          
