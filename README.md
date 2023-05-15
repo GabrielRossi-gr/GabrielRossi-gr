@@ -3,14 +3,9 @@
   <p>Systems Analysis and Development Student</p>
   <p>IOS Developer</p>
   
-  <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
-  
-  <br>
-     
-  </div>
-  
-   <p>        <!-- contact -->
 
+  
+   
  </h1>
      
   <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
