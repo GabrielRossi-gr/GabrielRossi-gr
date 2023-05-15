@@ -67,10 +67,11 @@ info github
 <h1/>
  
  </div>
- <div>         <!-- LEARNIG PAGE........................................................... -->
-  <h3> Learning:  </h3>
-     <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
           <img align="center" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
+ <div>         <!-- LEARNIG PAGE........................................................... -->
+  <h3></h3>
+     
    
   <h3> I want to learn: </h3> <!-- i want to learning area.......................................................... -->
       <img align="center" alt="react-"   height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -112,7 +113,7 @@ info github
    <h3> Tools </h3> <!-- tools area................................................................ -->
    <img align="center" alt="xcode-"   height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
    <img align="center" alt="crome-"   height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-   <img align="center" alt="crome-"   height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><!--
+   <img align="center" alt="figma-"   height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><!--
 <img align="center" alt="android studio-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> 
 -->
    <img align="center" alt="vs code-"   height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
