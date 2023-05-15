@@ -6,12 +6,6 @@
      
   </div>
   
-  
-  
-  
-  
-  
-  
    <p>        <!-- contact -->
   <a href="https://www.facebook.com/gabriel.desouzarossi.9">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
@@ -26,17 +20,6 @@
     
 
 <div align="center" ><!-- MAIN DIV........................................................ -->
-  
-
-    
-<!--
-info github 
-<a href="https://github.com/GabrielRossi-gr">
-           <!-- normal-> height="180em"      150       
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=GabrielRossi-gr&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRossi-gr&layout=compact&langs_count=7&theme=dark"/>
---> 
- 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielRossi-gr&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielRossi-gr&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielRossi-gr&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -44,10 +27,8 @@ info github
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielRossi-gr&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi-gr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-
-
-  <img align="left" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-          <img align="left" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
+<img align="left" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="left" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
   
 </div>
 
