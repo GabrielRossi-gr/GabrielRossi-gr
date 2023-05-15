@@ -19,7 +19,7 @@
  </h1>
     
 
-<div align="right" ><!-- MAIN DIV........................................................ -->
+<div align="left" ><!-- MAIN DIV........................................................ -->
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielRossi-gr&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielRossi-gr&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielRossi-gr&theme=nord_dark) |
 | :-: | :-: | :-: |
