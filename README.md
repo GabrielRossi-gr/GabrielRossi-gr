@@ -1,6 +1,6 @@
 <h1>
   <p>Systems Analysis and Development Student</p>
-  <p>IOS developer <img align="left" alt="apple"  height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> </p>
+  <p>IOS developer <img align="" alt="apple"  height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> </p>
   
   
   <div align="left">     <!-- CERTIFICATE DIV .......................................................... -->
