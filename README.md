@@ -19,7 +19,7 @@
  </h1>
     
 
-<div><!-- MAIN DIV........................................................ -->
+<div align="left"><!-- MAIN DIV........................................................ -->
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielRossi-gr&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielRossi-gr&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielRossi-gr&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -30,6 +30,7 @@
 <img align="left" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
 
+  <div>
   
 <img align="right" alt="xcode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 <img align="right" alt="crome-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
@@ -37,7 +38,7 @@
 <img align="right" alt="vsCode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="right" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="right" alt="canva-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-
+  </div>
     
  </div>
 
