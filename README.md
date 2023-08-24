@@ -1,16 +1,14 @@
 <h1>
 
   <p>Systems Analysis and Development Student</p>
-  <p>IOS Developer</p>
- </h1>
-
-<h2>
-  <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
+  <p>IOS Developer</p> <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
   <img align="left" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  
   <br>
   
-  </h2>
-     
+  </h1>
+
+
   
   <!-- 
       <a href="https://mail.google.com/mail/u/0/#inbox?compose=SxfkdqMFJBqfqFNWLnVfKdqgTsHwTsjRPCrqXnjSVFpxmQRZGNJGxjFHrfQhGdRFtzDzDCsFHHsZZTWxqPmFLnVfKQRWDztmNKSFGkLPjRbTBFDHhnq">
@@ -37,7 +35,6 @@
 <img align="" alt="figma-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="" alt="vsCode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="" alt="canva-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
     
  </div>
