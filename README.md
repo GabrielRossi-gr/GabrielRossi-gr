@@ -46,20 +46,12 @@
 </h1>
  
  </div>
- <div align="left">         <!-- LEARNIG PAGE........................................................... -->
-  <h3></h3>
-     
-  <!--  
-  <h3> I want to learn</h3> <!-- i want to learning area.......................................................... -->
-      <img align="center" alt="react-"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-       <img align="center" alt="react-"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-        <img align="center" alt="android-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-          <img align="center" alt="java-" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+       <!-- LEARNIG PAGE........................................................... -->
+ 
+ 
+ 
+     <!--  
 
-   <h1>
-   </h1>
-   
-   
                R 
               R R
              R   R
@@ -81,7 +73,7 @@
    
   -->
  
- </div> <!-- CLOUSE MAIN DIV ......................................................................................--> 
+<!-- CLOUSE MAIN DIV ......................................................................................--> 
 
 
 
