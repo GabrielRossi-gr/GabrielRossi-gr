@@ -1,7 +1,8 @@
 <h1>
-
-  <p>Systems Analysis and Development Student</p>
-  <p>IOS Developer</p> 
+<div>
+    <p>Systems Analysis and Development Student</p>
+    <p>IOS Developer</p> 
+</div>
   
   
   <div align="right">
