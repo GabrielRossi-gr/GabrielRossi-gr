@@ -1,9 +1,9 @@
-<h1>
 <div>
     <p>Systems Analysis and Development Student</p>
     <p>IOS Developer</p> 
 </div>
-  
+
+<h1>  
   
   <div align="right">
     <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
