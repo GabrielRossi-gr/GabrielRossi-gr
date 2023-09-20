@@ -9,7 +9,7 @@
   <p>IOS Developer</p> 
     
   <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
-  <img align="right" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img align="right" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     
   </div>
 
