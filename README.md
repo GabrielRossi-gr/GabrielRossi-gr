@@ -5,14 +5,17 @@
 
   
   <div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
-  <img align="right" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <div>
+      
     
+  <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
+  <img align="right" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  
+  </div>
+  
   <p>Systems Analysis and Development Student</p>
   <p>IOS Developer</p> 
-    
-  
-    
+      
   </div>
 
   <img align="left" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
