@@ -17,6 +17,8 @@
   </div>
 
   <img align="left" alt="c-"  height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="java-"  height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  
   <img align="left" alt="swift-" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
 
 
