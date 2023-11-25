@@ -8,7 +8,7 @@
   
   <div>
   <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
-  <img align="right" height="80" width="80"  style="border-radius:50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <img align="right" height="100" width="100"  style="border-radius:50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </div>
   
   
@@ -16,9 +16,9 @@
       
   </div>
 
-  <img align="left" alt="c-"  height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="left" alt="java-"  height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="swift-" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
+  <img align="left" alt="c-"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="java-"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="swift-" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
 
   <br>
   <br>
