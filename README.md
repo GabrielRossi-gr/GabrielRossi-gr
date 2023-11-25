@@ -11,7 +11,7 @@
   <img align="right" height="80" width="80"  style="border-radius:50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </div>
   
-  <p>Systems Analysis and Development Student</p>
+  
   <p>IOS Developer</p> 
       
   </div>
