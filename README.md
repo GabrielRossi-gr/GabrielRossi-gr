@@ -13,9 +13,9 @@
   
   
   <p>IOS Developer</p> 
-  <img align="top" alt="c-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="top" alt="java-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="top" alt="swift-" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
+  <img align="top" alt="c-"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="top" alt="java-"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="top" alt="swift-" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
       
   </div>
 
