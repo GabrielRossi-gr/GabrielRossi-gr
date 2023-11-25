@@ -50,7 +50,7 @@
   <img align="" alt="vsCode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </div>
 
-<h2>Applications</h2>
+<h2>Applications: Click and test</h2>
 <div align="">
   
   <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
