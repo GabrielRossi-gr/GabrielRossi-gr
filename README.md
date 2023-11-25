@@ -44,7 +44,7 @@
 | :-: | :-: |
   
 <div align="">
-  <h2>Applications</h2>
+  Applications
   <img align="right" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="right" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
