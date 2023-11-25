@@ -46,6 +46,10 @@
 <h2>Applications</h2>
 <div align="">
   <img align="left" alt="PomodoroApp-"  height="80" width="80" src="https://media.discordapp.net/attachments/1108011461999079467/1177966263834775572/PomodoroIcon.png?ex=65746d92&is=6561f892&hm=70775863baea7b72f620244d409647d90093aff4451343e129ca39bb810d9f12&=&width=1144&height=1144"/>
+
+  <a href="url"><img height="auto" width="200" style="border-radius:50%" src="https://media.discordapp.net/attachments/1108011461999079467/1177966263834775572/PomodoroIcon.png?ex=65746d92&is=6561f892&hm=70775863baea7b72f620244d409647d90093aff4451343e129ca39bb810d9f12&=&width=1144&height=1144" ></a>
+
+
   
   <img align="left" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
