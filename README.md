@@ -49,6 +49,14 @@
 
   <a href="url"><img height="auto" width="200" style="border-radius:50%" src="https://media.discordapp.net/attachments/1108011461999079467/1177966263834775572/PomodoroIcon.png?ex=65746d92&is=6561f892&hm=70775863baea7b72f620244d409647d90093aff4451343e129ca39bb810d9f12&=&width=1144&height=1144" ></a>
 
+img[src$="https://media.discordapp.net/attachments/1108011461999079467/1177966263834775572/PomodoroIcon.png?ex=65746d92&is=6561f892&hm=70775863baea7b72f620244d409647d90093aff4451343e129ca39bb810d9f12&=&width=1144&height=1144"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 30%;
+  max-width: 30%;
+}
+
+
 <a href="url"><img src="https://media.discordapp.net/attachments/1108011461999079467/1177966263834775572/PomodoroIcon.png?ex=65746d92&is=6561f892&hm=70775863baea7b72f620244d409647d90093aff4451343e129ca39bb810d9f12&=&width=1144&height=1144" height="auto" width="200" style="border-radius:50%"></a>
 
 
