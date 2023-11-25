@@ -65,6 +65,15 @@
 
   <a href="https://testflight.apple.com/join/BW4Yzt24">
   <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177979986804752535/BeHealthyIcon.png?ex=65747a5a&is=6562055a&hm=c8e53c1d4dc5f45c23ea1f01980701409a93d4b1e54259064d44216de61e7087&"/>
+
+<a href="https://testflight.apple.com/join/BW4Yzt24">
+  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177979986804752535/BeHealthyIcon.png?ex=65747a5a&is=6562055a&hm=c8e53c1d4dc5f45c23ea1f01980701409a93d4b1e54259064d44216de61e7087&"/>
+
+<a href="https://testflight.apple.com/join/BW4Yzt24">
+  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177979986804752535/BeHealthyIcon.png?ex=65747a5a&is=6562055a&hm=c8e53c1d4dc5f45c23ea1f01980701409a93d4b1e54259064d44216de61e7087&"/>
+
+<a href="https://testflight.apple.com/join/BW4Yzt24">
+  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177979986804752535/BeHealthyIcon.png?ex=65747a5a&is=6562055a&hm=c8e53c1d4dc5f45c23ea1f01980701409a93d4b1e54259064d44216de61e7087&"/>
   
   
 </div>
