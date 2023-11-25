@@ -58,6 +58,10 @@
 
   <a href="https://testflight.apple.com/join/PpUyIXik">
   <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972162796195890/TimestampIcon.png?ex=65747311&is=6561fe11&hm=a0ac449c0caf1ca1146c4959ae7ea1d7a2bb71fe7da0c6546d2d4978dcf144f5&=&width=1144&height=1144"/>
+
+  <a href="https://testflight.apple.com/join/PpUyIXik">
+  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177979061977501706/BeHealthyIcon.png?ex=6574797e&is=6562047e&hm=a8c1bd060358d7896ee037f82731cad989cff704afca9ab8570287e044924bce&"/>
+  
   
 </div>
     
