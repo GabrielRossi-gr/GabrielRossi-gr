@@ -53,6 +53,10 @@
   <img align="" alt="vsCode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </div>
 
+<br>
+<br>
+
+
 <h2>Applications:</h2>
 <div align="">
   
