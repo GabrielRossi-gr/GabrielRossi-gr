@@ -43,6 +43,13 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielRossi-gr&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielRossi-gr&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+<div>
+  <img align="right" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="right" alt="vsCode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="right" alt="figma-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="right" alt="xcode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+</div>
+
 <h2>Applications</h2>
 <div align="">
   
@@ -52,12 +59,6 @@
   <a href="https://testflight.apple.com/join/PpUyIXik">
   <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972162796195890/TimestampIcon.png?ex=65747311&is=6561fe11&hm=a0ac449c0caf1ca1146c4959ae7ea1d7a2bb71fe7da0c6546d2d4978dcf144f5&=&width=1144&height=1144"/>
   
-  
-<img align="right" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="right" alt="vsCode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="right" alt="figma-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="right" alt="xcode-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-
 </div>
     
  </div>
