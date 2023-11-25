@@ -48,6 +48,9 @@
   
   <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
   <img align="left" alt="pmodoro-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=65747311&is=6561fe11&hm=20e2f822119236b6e43d08909901567c73219d0f36c92f98bcaec976cc802446&=&width=1144&height=1144"/>
+
+  <a href="https://www.linkedin.com/in/gabriel-s-rossi-4263681a3/">
+  <img align="left" alt="pmodoro-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972162796195890/TimestampIcon.png?ex=65747311&is=6561fe11&hm=a0ac449c0caf1ca1146c4959ae7ea1d7a2bb71fe7da0c6546d2d4978dcf144f5&=&width=1144&height=1144"/>
   
   
 <img align="right" alt="git-"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
