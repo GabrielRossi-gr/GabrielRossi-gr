@@ -8,7 +8,7 @@
   
   <div>
   <a href="www.linkedin.com/in/gabriel-s-rossi">
-  <img align="right" height="44" width="221"  style="border-radius:50" src="https://media.discordapp.net/attachments/1108011461999079467/1228333896131936266/Frame_4.png?ex=662baa16&is=66193516&hm=302aefdb7b5fc17755a4f792385cc4d0c10a6f3e6014f75283fbffa241ebe93b&=&format=webp&quality=lossless&width=642&height=168"/>
+  <img align="right" height="44" width="201"  style="border-radius:50" src="https://media.discordapp.net/attachments/1108011461999079467/1228333896131936266/Frame_4.png?ex=662baa16&is=66193516&hm=302aefdb7b5fc17755a4f792385cc4d0c10a6f3e6014f75283fbffa241ebe93b&=&format=webp&quality=lossless&width=642&height=168"/>
   </div>
   
   
