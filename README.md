@@ -7,7 +7,7 @@
   <div align="left">
   
   <div>
-  <a href="www.linkedin.com/in/gabriel-s-rossi">
+  <a href="https://www.linkedin.com/in/gabriel-s-rossi/">
   <img align="right" height="44" width="171"  style="border-radius:50" src="https://media.discordapp.net/attachments/1108011461999079467/1228336037164486716/Frame_4.png?ex=662bac14&is=66193714&hm=b7f78dc30d872c735cbda805d8a488b734c859cf7c8b78be5277aa67485dabe1&=&format=webp&quality=lossless&width=658&height=168"/>
   </div>
   
