@@ -68,6 +68,20 @@
 </div>
 
 
+<h2>Applications:</h2>
+<div align="">
+  
+  <a href="https://testflight.apple.com/join/kLTAoUO3">
+  <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=6623ca91&is=66115591&hm=3f0e8fe2e6f9360740c1383007739a47b44382760d4d878c0bc05b8f7051f820&=&format=webp&quality=lossless&width=1158&height=1158"/>
+
+<a href="https://testflight.apple.com/join/BW4Yzt24">
+  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177979061977501706/BeHealthyIcon.png?ex=6623d0fe&is=66115bfe&hm=42c4751b334c1219f09cfdacb3ad65aedf2ab158cd6c983cbd1dd6abcaa254dc&=&format=webp&quality=lossless&width=1158&height=1158"/>
+
+  <a href="https://apps.apple.com/br/app/timestamp-odyssey/id6471782796?l=en-GB">
+  <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=6623d30b&is=66115e0b&hm=0ba4e818a51d2bf90c75f586b6db72ebc7875f6ca3961d397f5a4399b53d42be&=&format=webp&quality=lossless&width=1158&height=1158"/>
+</div>
+
+
        <!-- LEARNIG PAGE........................................................... -->
  
  
