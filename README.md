@@ -65,10 +65,10 @@
 
 <a href="https://apps.apple.com/br/app/timestamp-odyssey/id6471782796?l=en-GB">
   <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=6623d30b&is=66115e0b&hm=0ba4e818a51d2bf90c75f586b6db72ebc7875f6ca3961d397f5a4399b53d42be&=&format=webp&quality=lossless&width=1158&height=1158"/>
-  
+
+  <br>
 </div>
 
-<br>
 <br>
 
 <h2></h2>
