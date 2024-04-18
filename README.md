@@ -79,6 +79,8 @@
 
 
  <div align="center">
+   <br>
+   <br>
   <a href="https://www.linkedin.com/in/gabriel-s-rossi/">
   <img align="center" height="56" width="361"  style="border-radius:50" src="https://media.discordapp.net/attachments/1108011461999079467/1230483226397773854/Group_6.png?ex=66337bce&is=662106ce&hm=3b701634505a56c3f5c1d1be154c08e3bffdcc1082afcb6b2aaca2610f4a97c6&=&format=webp&quality=lossless&width=1444&height=224"/>
   </div>
