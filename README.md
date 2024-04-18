@@ -7,9 +7,9 @@
   <div align="left">
   
   <p>IOS Developer</p> 
-  <img align="top" alt="c-"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="top" alt="java-"  height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="top" alt="swift-" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
+  <img align="top" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="top" alt="java-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="top" alt="swift-" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
       
   </div>
 
@@ -38,10 +38,10 @@
 | :-: | :-: |
 
 <div align="center">
-  <img align="" alt="xcode-"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
-  <img align="" alt="figma-"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="" alt="git-"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="" alt="vsCode-"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="" alt="xcode-"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+  <img align="" alt="figma-"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="" alt="git-"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="" alt="vsCode-"  height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </div>
 
 <br>
