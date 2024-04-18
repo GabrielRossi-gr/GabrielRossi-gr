@@ -66,10 +66,12 @@
   <a href="https://apps.apple.com/br/app/timestamp-odyssey/id6471782796?l=en-GB">
   <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=6623d30b&is=66115e0b&hm=0ba4e818a51d2bf90c75f586b6db72ebc7875f6ca3961d397f5a4399b53d42be&=&format=webp&quality=lossless&width=1158&height=1158"/>
 
-<br>
-
-<a href="https://testflight.apple.com/join/aBfug4ZK">
+<div>
+  <br>
+  <a href="https://testflight.apple.com/join/aBfug4ZK">
   <img align="left" alt="Welcome to Train Station-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1228322685973696602/Frame_3.png?ex=662b9fa5&is=66192aa5&hm=7a456323ec7cebe5d54699a12f9c4fa8e292cb72de2886943b02b621ef02ff57&=&format=webp&quality=lossless&width=1158&height=1158"/>
+
+</div>
 
 </div>
 
