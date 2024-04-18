@@ -48,7 +48,7 @@
 <br>
 
 
-<h2>Applications:</h2>
+<h3>Applications:</h3>
 <div align="">
   
   <a href="https://testflight.apple.com/join/kLTAoUO3">
