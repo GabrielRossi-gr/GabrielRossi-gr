@@ -52,13 +52,13 @@
 <div align="">
   
   <a href="https://testflight.apple.com/join/kLTAoUO3">
-  <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=6623ca91&is=66115591&hm=3f0e8fe2e6f9360740c1383007739a47b44382760d4d878c0bc05b8f7051f820&=&format=webp&quality=lossless&width=1158&height=1158"/>
+  <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=664d51d1&is=664c0051&hm=dd79e15652cf34079efb11e262e37a1d7e0106986765e15fd840e4c1ec37a356&"/>
 
 <a href="https://testflight.apple.com/join/BW4Yzt24">
   <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177979061977501706/BeHealthyIcon.png?ex=6623d0fe&is=66115bfe&hm=42c4751b334c1219f09cfdacb3ad65aedf2ab158cd6c983cbd1dd6abcaa254dc&=&format=webp&quality=lossless&width=1158&height=1158"/>
 
 <a href="https://apps.apple.com/us/app/timestamp-odyssey/id6471782796?ppid=46f7c06b-23fc-453e-8672-2086386809e4">
-  <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=662d0d8b&is=661a988b&hm=617e05bb2dadb78a033b731ad717f8eb0abf3cc43af76d52e954706ee7c9f224&=&format=webp&quality=lossless&width=700&height=700"/>
+  <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=664d5a4b&is=664c08cb&hm=57070daa4c47cb29cb42298899b3e3b3b101d721fcf0825136257de8b7f1fed1&"/>
 
   <br>
   <br>
