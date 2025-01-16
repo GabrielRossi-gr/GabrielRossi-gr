@@ -6,7 +6,7 @@
   
   <div align="left">
   
-  <p>IOS Developer</p> 
+  <p>Software Developer</p> 
   <img align="top" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="top" alt="java-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="top" alt="swift-" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
