@@ -57,7 +57,7 @@
   <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=664d51d1&is=664c0051&hm=dd79e15652cf34079efb11e262e37a1d7e0106986765e15fd840e4c1ec37a356&"/>
 
 <a href="https://testflight.apple.com/join/BW4Yzt24">
-  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177979061977501706/BeHealthyIcon.png?ex=6623d0fe&is=66115bfe&hm=42c4751b334c1219f09cfdacb3ad65aedf2ab158cd6c983cbd1dd6abcaa254dc&=&format=webp&quality=lossless&width=1158&height=1158"/>
+  <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177979986804752535/BeHealthyIcon.png?ex=678a69da&is=6789185a&hm=918b882c8c1a5eee097b756907eb6e589aa1df41a62eb0575ac2315866e06e90&=&format=webp&quality=lossless&width=700&height=700"/>
 
 <a href="https://apps.apple.com/us/app/timestamp-odyssey/id6471782796?ppid=46f7c06b-23fc-453e-8672-2086386809e4">
   <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=678a6b0b&is=6789198b&hm=3883a5bd459544a9fd1260966c07b247e0a45fcf98247c6dbb69688d85e543b8&=&format=webp&quality=lossless&width=700&height=700"/>
