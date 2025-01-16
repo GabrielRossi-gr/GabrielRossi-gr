@@ -49,7 +49,7 @@
 <br>
 <br>
 
-<h2>Aplications</h2>
+<h2>Applications:</h2>
 <div align="left">
 <p>Beta Test: </p>
   
