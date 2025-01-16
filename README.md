@@ -85,7 +85,7 @@
    <br>
    <br>
   <a href="https://www.linkedin.com/in/gabriel-s-rossi/">
-  <img align="center" height="56" width="361"  style="border-radius:50" src="https://media.discordapp.net/attachments/1108011461999079467/1230487004467171359/Group_6.png?ex=66337f53&is=66210a53&hm=603861c5de8023e689fbc6fe2a44d09333a8463a3c8cbd4a09e4a711b8331abf&=&format=webp&quality=lossless&width=1600&height=248"/>
+  <img align="center" height="56" width="361"  style="border-radius:50" src="https://media.discordapp.net/attachments/1108011461999079467/1230487004467171359/Group_6.png?ex=678a4553&is=6788f3d3&hm=0b2fb33b7071335937bc17ec8efaf0e967eec5a624149a247a3462a7ca7e9c40&=&format=webp&quality=lossless&width=1100&height=170"/>
   </div>
 
 
