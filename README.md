@@ -60,7 +60,7 @@
   <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177979061977501706/BeHealthyIcon.png?ex=6623d0fe&is=66115bfe&hm=42c4751b334c1219f09cfdacb3ad65aedf2ab158cd6c983cbd1dd6abcaa254dc&=&format=webp&quality=lossless&width=1158&height=1158"/>
 
 <a href="https://apps.apple.com/us/app/timestamp-odyssey/id6471782796?ppid=46f7c06b-23fc-453e-8672-2086386809e4">
-  <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=664d5a4b&is=664c08cb&hm=57070daa4c47cb29cb42298899b3e3b3b101d721fcf0825136257de8b7f1fed1&"/>
+  <img align="left" alt="Timestamp-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177981266222649404/TimestampIcon.png?ex=678a6b0b&is=6789198b&hm=3883a5bd459544a9fd1260966c07b247e0a45fcf98247c6dbb69688d85e543b8&=&format=webp&quality=lossless&width=700&height=700"/>
 
   <br>
   <br>
