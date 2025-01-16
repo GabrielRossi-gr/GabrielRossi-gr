@@ -49,10 +49,9 @@
 <br>
 <br>
 
-
-<div align="">
-<h2>Beta</h2>
-
+<h2></h2>
+<div align="left">
+<p>Beta Test</p>
   
   <a href="https://testflight.apple.com/join/kLTAoUO3">
   <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=678a6291&is=67891111&hm=ac5971ea414684bf48f4425dc55f1a1a5c5efc18edf263ea9091c5c6204c33d9&=&format=webp&quality=lossless&width=1158&height=1158"/>
