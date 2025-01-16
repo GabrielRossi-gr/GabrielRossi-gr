@@ -8,7 +8,7 @@
   
   <p>Software Developer</p> 
 <!--   <img align="top" alt="c-"  height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<!--   <img align="top" alt="java-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> --> -->
+<!--   <img align="top" alt="java-"  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
   <img align="top" alt="swift-" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> 
   <img align="top" alt="react-" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> 
 
@@ -72,7 +72,7 @@
 <div align="">
 
   <a href="https://testflight.apple.com/join/aBfug4ZK">
-  <img align="left" alt="-TrainStation-" height="80" width="80"  style="border-radius:300" src="https://cdn.discordapp.com/attachments/1108011461999079467/1228322685973696602/Frame_3.png?ex=664d3de5&is=664bec65&hm=3de6eba6ea3d41c9717faa2d19cf062fc34f6dc9d6ce1887104a8ce269b0ae50&"/>
+  <img align="left" alt="-TrainStation-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1228322685973696602/Frame_3.png?ex=678a4ea5&is=6788fd25&hm=e929d67aee0a05e0e2aa2c0808bb7b2a100f5c28d0b33ed26de937623d3b9678&=&format=webp&quality=lossless&width=700&height=700"/>
 
   <br>
   <br>
