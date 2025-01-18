@@ -70,7 +70,7 @@
 <div align="left">
 <p>App Store: </p>
 
-  <a href="https://apps.apple.com/us/app/welcome-to-train-station/id6477182584?platform=iphone&ppid=664e2151-d59a-4779-8e2e-495c68c47ddd">
+  <a href="https://apps.apple.com/us/app/welcome-to-train-station/id6477182584?ppid=664e2151-d59a-4779-8e2e-495c68c47ddd">
   <img align="left" alt="-TrainStation-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1228322685973696602/Frame_3.png?ex=678a4ea5&is=6788fd25&hm=e929d67aee0a05e0e2aa2c0808bb7b2a100f5c28d0b33ed26de937623d3b9678&=&format=webp&quality=lossless&width=1158&height=1158"/>
 
 <a href="https://apps.apple.com/us/app/timestamp-odyssey/id6471782796?ppid=46f7c06b-23fc-453e-8672-2086386809e4">
