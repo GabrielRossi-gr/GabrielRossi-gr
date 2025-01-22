@@ -54,7 +54,7 @@
 <p>Beta Test: </p>
   
   <a href="https://testflight.apple.com/join/kLTAoUO3">
-  <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177972163249197127/PomodoroIcon.png?ex=678a6291&is=67891111&hm=ac5971ea414684bf48f4425dc55f1a1a5c5efc18edf263ea9091c5c6204c33d9&=&format=webp&quality=lossless&width=1158&height=1158"/>
+  <img align="left" alt="Pomodoro-" height="80" width="80"  style="border-radius:300" src="https://github.com/user-attachments/assets/530303ad-8f39-4272-87d0-971fc7f8990b"/>
 
 <a href="https://testflight.apple.com/join/BW4Yzt24">
   <img align="left" alt="BeHealthy-" height="80" width="80"  style="border-radius:300" src="https://media.discordapp.net/attachments/1108011461999079467/1177979986804752535/BeHealthyIcon.png?ex=678a69da&is=6789185a&hm=918b882c8c1a5eee097b756907eb6e589aa1df41a62eb0575ac2315866e06e90&=&format=webp&quality=lossless&width=700&height=700"/>
